@@ -1,0 +1,18 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# If you add screenshots or exports later
+*.log
+*.tmp
+*.bak
+
+# If you drop small code examples in this repo later
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# Build artifacts (in case you add a docs site)
+dist/
+build/
